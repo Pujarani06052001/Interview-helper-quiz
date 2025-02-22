@@ -1,0 +1,131 @@
+/* Reset Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    width: 100%;
+    padding-top: 2rem;  
+    padding-bottom: 2rem;
+    background-color: #f3f4f6;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+};
+
+@media (min-width: 768px) {
+    .container{
+        flex-direction: row;
+
+    };
+    
+}
+
+.container h1{
+    font-size: 1.875rem; 
+    font-weight: bold;
+    color: var(--primary-color);
+
+}
+
+.container-nav {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1rem;
+    gap: 1rem 0;
+}
+
+@media (min-width: 640px) { 
+    .container-nav {
+        flex-direction: row;
+        margin-top: 0;
+        gap: 0 1rem; 
+    }
+}
+
+.nav-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem; 
+}
+
+@media (min-width: 640px) { 
+    .nav-div {
+        flex-direction: row;
+        gap: 0;
+    }
+}
+
+.nav-div .feature, 
+.nav-div .testimonials, 
+.nav-div .contact {
+    font-size: 1.125rem;
+    color: #1f2937; 
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+@media (min-width: 768px) { 
+    .nav-div .feature, 
+    .nav-div .testimonials, 
+    .nav-div .contact {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}
+
+
+
+
+
+
+/* Navbar Container */
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 5rem;  /* 80px */
+    padding-bottom: 5rem;
+    padding-left: 1.5rem;  /* 24px */
+    padding-right: 1.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    background: linear-gradient(to right, #111827, #9CA3AF);  
+}
+.section-h2 {
+    text-align: center;
+    padding: 50px;
+    color: white;
+    font-size: 45px;
+}
+
+/* Heading */
+.section-p {
+    
+    font-size: 1.25rem; 
+    margin-top: 1rem;
+    font-size: 1.125rem;
+
+}
+
