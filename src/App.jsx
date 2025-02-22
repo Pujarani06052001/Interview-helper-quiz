@@ -1,10 +1,12 @@
+import React from "react"
+import Nav from "./Component/Navbar";
 function App() {
 
   return (
-    <>
-      <h1>Hello</h1>
-    </>
+  <div>
+    <Nav/>
+  </div>
   )
 }
 
-export default App
+export default App;;
