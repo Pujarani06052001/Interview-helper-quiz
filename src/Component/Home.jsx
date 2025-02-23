@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";  
+import { Link } from "react-router-dom";
 
 function Home() {
 
@@ -11,10 +12,8 @@ function Home() {
           Practice with AI-powered mock interviews and get personalized feedback.
         </p>
         <div className="section2-buttons">
-           <button className="dashboard" >
-            Get Started
-          </button>
-          <button className="features">Learn More</button>
+        <Link to="/quiz" className="quiz-link">Get Started</Link>
+          {/* <button className="features">Learn More</button> */}
         </div>
       </section>
 
