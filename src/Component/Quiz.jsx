@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "./Quiz.css"; // Import CSS file
+import "./Quiz.css"; 
 
 function Quiz() {
   const [quizData, setQuizData] = useState([]);
@@ -8,10 +8,10 @@ function Quiz() {
   const [score, setScore] = useState(0);
   const [timeTaken, setTimeTaken] = useState(0);
   const [timerRunning, setTimerRunning] = useState(true);
-  const [showModal, setShowModal] = useState(false); // Modal visibility state
+  const [showModal, setShowModal] = useState(false); 
 
   useEffect(() => {
-    fetch("/data.json") // Fetch JSON from public folder
+    fetch("/data.json") 
       .then((response) => response.json())
       .then((data) => setQuizData(data));
 
@@ -21,7 +21,7 @@ function Quiz() {
       }
     }, 1000);
 
-    return () => clearInterval(timer); // Cleanup on unmount
+    return () => clearInterval(timer); 
   }, [timerRunning]);
 
   const handleOptionClick = (questionId, option) => {
@@ -29,7 +29,6 @@ function Quiz() {
       setSelectedAnswers((prev) => ({ ...prev, [questionId]: option }));
     }
   };
-
   const handleSubmit = () => {
     let newScore = 0;
     quizData.forEach((question) => {
@@ -39,11 +38,10 @@ function Quiz() {
     });
     setScore(newScore);
     setSubmitted(true);
-    setTimerRunning(false); // Stop timer when submitted
-    setShowModal(true); // Show result in modal
+    setTimerRunning(false); 
+    setShowModal(true);
   };
 
-  // Check if all questions have been answered
   const isSubmitDisabled = quizData.some(
     (question) => !selectedAnswers[question.id]
   );
