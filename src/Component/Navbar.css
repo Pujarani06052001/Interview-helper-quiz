@@ -62,7 +62,7 @@
     }
 }
 
-.container-nav .nav-div {
+.container-nav .nav-usediv {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -78,9 +78,9 @@
     }
 }
 
-.nav-div .feature, 
-.nav-div .testimonials, 
-.nav-div .contact {
+.nav-usediv .feature, 
+.nav-usediv .testimonials, 
+.nav-usediv .contact {
     font-size: 20px;
     color: #1f2937; 
     margin-left: 0.5rem;
