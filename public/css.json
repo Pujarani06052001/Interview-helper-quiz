@@ -1,0 +1,147 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which property is used to change the text color of an element?",
+      "options": ["text-color", "color", "font-color", "foreground"],
+      "answer": "color"
+    },
+    {
+      "question": "Which of the following is the correct CSS syntax?",
+      "options": ["{body: color=black;}", "body {color: black;}", "{body; color: black;}", "body: {color: black;}"],
+      "answer": "body {color: black;}"
+    },
+    {
+      "question": "Which CSS property is used to change the background color?",
+      "options": ["bgcolor", "color", "background-color", "background"],
+      "answer": "background-color"
+    },
+    {
+      "question": "Which CSS property controls the text size?",
+      "options": ["font-size", "text-style", "text-size", "font-style"],
+      "answer": "font-size"
+    },
+    {
+      "question": "Which is the correct way to apply external CSS?",
+      "options": ["<style> tag", "<css> tag", "<link> tag", "<stylesheet> tag"],
+      "answer": "<link> tag"
+    },
+    {
+      "question": "Which CSS property is used to make text bold?",
+      "options": ["font-weight", "text-style", "bold", "font-bold"],
+      "answer": "font-weight"
+    },
+    {
+      "question": "How do you add a border in CSS?",
+      "options": ["border: 1px solid black;", "border-style: black;", "border-width: black;", "border-color: black;"],
+      "answer": "border: 1px solid black;"
+    },
+    {
+      "question": "Which CSS property controls the spacing between elements?",
+      "options": ["spacing", "margin", "padding", "border"],
+      "answer": "margin"
+    },
+    {
+      "question": "Which CSS property controls the space inside an element's border?",
+      "options": ["padding", "margin", "border-spacing", "spacing"],
+      "answer": "padding"
+    },
+    {
+      "question": "Which property is used to change the font of text?",
+      "options": ["font-style", "font-family", "text-font", "font-weight"],
+      "answer": "font-family"
+    },
+    {
+      "question": "Which unit is not relative in CSS?",
+      "options": ["px", "em", "rem", "%"],
+      "answer": "px"
+    },
+    {
+      "question": "How can you create a flex container in CSS?",
+      "options": ["display: flex;", "flex: container;", "display: block;", "container: flex;"],
+      "answer": "display: flex;"
+    },
+    {
+      "question": "Which pseudo-class selects an element when the mouse is over it?",
+      "options": [":hover", ":focus", ":active", ":visited"],
+      "answer": ":hover"
+    },
+    {
+      "question": "What is the default position value in CSS?",
+      "options": ["relative", "absolute", "fixed", "static"],
+      "answer": "static"
+    },
+    {
+      "question": "Which CSS property is used to control the transparency of an element?",
+      "options": ["opacity", "visibility", "transparent", "display"],
+      "answer": "opacity"
+    },
+    {
+      "question": "Which value of the 'position' property positions the element relative to its first positioned ancestor?",
+      "options": ["static", "absolute", "relative", "fixed"],
+      "answer": "absolute"
+    },
+    {
+      "question": "Which CSS property is used to create rounded corners?",
+      "options": ["border-radius", "border-round", "corner-radius", "round-border"],
+      "answer": "border-radius"
+    },
+    {
+      "question": "Which of the following is used to apply styles to a specific element with an ID?",
+      "options": [".classname", "#id", "element", "@id"],
+      "answer": "#id"
+    },
+    {
+      "question": "Which CSS property is used to make an element disappear but keep its space?",
+      "options": ["display: none;", "visibility: hidden;", "opacity: 0;", "hide: true;"],
+      "answer": "visibility: hidden;"
+    },
+    {
+      "question": "What does 'z-index' control?",
+      "options": ["Font size", "Layer order", "Border thickness", "Opacity"],
+      "answer": "Layer order"
+    },
+    {
+      "question": "Which property is used to align text to the center?",
+      "options": ["text-align: middle;", "align: center;", "text-align: center;", "center-text: true;"],
+      "answer": "text-align: center;"
+    },
+    {
+      "question": "Which property is used to set an image as a background?",
+      "options": ["image-background", "background-image", "bg-image", "background"],
+      "answer": "background-image"
+    },
+    {
+      "question": "Which property is used to set the width of an element?",
+      "options": ["width", "element-width", "set-width", "size"],
+      "answer": "width"
+    },
+    {
+      "question": "Which CSS property is used to add shadow to text?",
+      "options": ["text-shadow", "shadow", "font-shadow", "box-shadow"],
+      "answer": "text-shadow"
+    },
+    {
+      "question": "Which of the following is a valid CSS comment?",
+      "options": ["// comment", "/* comment */", "<!-- comment -->", "' comment"],
+      "answer": "/* comment */"
+    },
+    {
+      "question": "Which property is used to create space between words in a text?",
+      "options": ["letter-spacing", "word-spacing", "spacing", "text-spacing"],
+      "answer": "word-spacing"
+    },
+    {
+      "question": "Which CSS property makes an element take up the full width of its container?",
+      "options": ["width: full;", "width: 100%;", "full-width: true;", "size: auto;"],
+      "answer": "width: 100%;"
+    },
+    {
+      "question": "Which of the following is used to make an image responsive?",
+      "options": ["width: 100%;", "height: auto;", "max-width: 100%;", "All of the above"],
+      "answer": "All of the above"
+    }
+  ]

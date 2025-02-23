@@ -1,0 +1,147 @@
+[
+    {
+      "question": "Which of the following is a valid C++ keyword?",
+      "options": ["function", "define", "int", "object"],
+      "answer": "int"
+    },
+    {
+      "question": "What will be the output of cout << 5 + 3;?",
+      "options": ["5", "3", "8", "Error"],
+      "answer": "8"
+    },
+    {
+      "question": "Which of the following is used to declare a single character in C++?",
+      "options": ["char", "string", "character", "int"],
+      "answer": "char"
+    },
+    {
+      "question": "Which of the following is NOT a valid variable name in C++?",
+      "options": ["_num", "2value", "value2", "var_name"],
+      "answer": "2value"
+    },
+    {
+      "question": "Which operator is used to find the remainder of division in C++?",
+      "options": ["/", "*", "%", "//"],
+      "answer": "%"
+    },
+    {
+      "question": "Which data type is used to store a decimal number in C++?",
+      "options": ["int", "float", "char", "bool"],
+      "answer": "float"
+    },
+    {
+      "question": "Which function is used to read input from the user in C++?",
+      "options": ["cin", "cout", "getchar()", "scanf()"],
+      "answer": "cin"
+    },
+    {
+      "question": "Which header file is required for using cout and cin in C++?",
+      "options": ["iostream", "stdio.h", "conio.h", "string.h"],
+      "answer": "iostream"
+    },
+    {
+      "question": "Which of the following is the entry point of a C++ program?",
+      "options": ["start()", "main()", "execute()", "run()"],
+      "answer": "main()"
+    },
+    {
+      "question": "Which loop is guaranteed to execute at least once in C++?",
+      "options": ["for", "while", "do...while", "None"],
+      "answer": "do...while"
+    },
+    {
+      "question": "Which operator is used for logical AND in C++?",
+      "options": ["&", "&&", "|", "||"],
+      "answer": "&&"
+    },
+    {
+      "question": "Which function is used to find the length of a string in C++?",
+      "options": ["strlength()", "length()", "strlen()", "size()"],
+      "answer": "length()"
+    },
+    {
+      "question": "Which keyword is used to define constants in C++?",
+      "options": ["const", "final", "static", "#define"],
+      "answer": "const"
+    },
+    {
+      "question": "What will cout << 'A'; print?",
+      "options": ["A", "65", "Error", "None"],
+      "answer": "A"
+    },
+    {
+      "question": "Which statement is used to exit from a loop in C++?",
+      "options": ["stop", "exit", "break", "return"],
+      "answer": "break"
+    },
+    {
+      "question": "Which of the following is NOT a valid C++ loop?",
+      "options": ["for", "foreach", "while", "do...while"],
+      "answer": "foreach"
+    },
+    {
+      "question": "Which function is used to allocate memory dynamically in C++?",
+      "options": ["malloc()", "alloc()", "memalloc()", "new"],
+      "answer": "new"
+    },
+    {
+      "question": "Which operator is used to compare two values in C++?",
+      "options": ["=", "==", "!=", "&&"],
+      "answer": "=="
+    },
+    {
+      "question": "Which of the following is NOT a valid C++ data type?",
+      "options": ["int", "float", "boolean", "char"],
+      "answer": "boolean"
+    },
+    {
+      "question": "Which symbol is used to access a pointer's value?",
+      "options": ["*", "&", "#", "%"],
+      "answer": "*"
+    },
+    {
+      "question": "Which function is used to copy a string in C++?",
+      "options": ["copy()", "strcpy()", "strcopy()", "stringcopy()"],
+      "answer": "strcpy()"
+    },
+    {
+      "question": "Which operator is used for bitwise OR in C++?",
+      "options": ["|", "||", "&", "&&"],
+      "answer": "|"
+    },
+    {
+      "question": "Which library function is used to find the square root of a number in C++?",
+      "options": ["sqrt()", "pow()", "square()", "root()"],
+      "answer": "sqrt()"
+    },
+    {
+      "question": "Which of the following statements is used to return a value from a function in C++?",
+      "options": ["end", "return", "exit", "break"],
+      "answer": "return"
+    },
+    {
+      "question": "Which keyword is used to define a class in C++?",
+      "options": ["class", "structure", "object", "record"],
+      "answer": "class"
+    },
+    {
+      "question": "Which of the following is NOT a valid storage class in C++?",
+      "options": ["auto", "static", "global", "extern"],
+      "answer": "global"
+    },
+    {
+      "question": "Which function is used to terminate a C++ program immediately?",
+      "options": ["exit()", "terminate()", "break()", "stop()"],
+      "answer": "exit()"
+    },
+    {
+      "question": "Which of the following is used to define a macro in C++?",
+      "options": ["#macro", "#define", "macro", "define"],
+      "answer": "#define"
+    },
+    {
+      "question": "Which feature of C++ allows the use of the same function name with different parameters?",
+      "options": ["Function overriding", "Function overloading", "Encapsulation", "Inheritance"],
+      "answer": "Function overloading"
+    }
+  ]

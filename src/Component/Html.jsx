@@ -14,7 +14,8 @@ const QuizHtml = () => {
   }, []);
 
   const handleAnswerSelection = (questionIndex, answer) => {
-    setSelectedAnswers((prev) => ({ ...prev, [questionIndex]: answer }));
+    setSelectedAnswers(
+      (prev) => ({ ...prev, [questionIndex]: answer }));
   };
 
   const handleSubmit = (e) => {

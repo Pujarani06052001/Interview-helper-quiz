@@ -1,0 +1,147 @@
+[
+    {
+      "question": "Which SQL statement is used to retrieve data from a database?",
+      "options": ["GET", "SELECT", "FETCH", "RETRIEVE"],
+      "answer": "SELECT"
+    },
+    {
+      "question": "Which SQL clause is used to filter records?",
+      "options": ["WHERE", "HAVING", "FILTER", "ORDER BY"],
+      "answer": "WHERE"
+    },
+    {
+      "question": "Which SQL keyword is used to sort the result set?",
+      "options": ["ORDER BY", "SORT BY", "GROUP BY", "FILTER BY"],
+      "answer": "ORDER BY"
+    },
+    {
+      "question": "Which SQL statement is used to insert new records into a table?",
+      "options": ["INSERT INTO", "ADD RECORD", "NEW RECORD", "INSERT RECORD"],
+      "answer": "INSERT INTO"
+    },
+    {
+      "question": "Which SQL statement is used to update existing records in a table?",
+      "options": ["MODIFY", "CHANGE", "UPDATE", "ALTER"],
+      "answer": "UPDATE"
+    },
+    {
+      "question": "Which SQL statement is used to delete records from a table?",
+      "options": ["REMOVE", "DROP", "DELETE", "CLEAR"],
+      "answer": "DELETE"
+    },
+    {
+      "question": "Which SQL clause is used with aggregate functions like COUNT, SUM, AVG?",
+      "options": ["WHERE", "GROUP BY", "ORDER BY", "HAVING"],
+      "answer": "GROUP BY"
+    },
+    {
+      "question": "Which SQL keyword is used to remove all records from a table without removing the structure?",
+      "options": ["DELETE", "DROP", "CLEAR", "TRUNCATE"],
+      "answer": "TRUNCATE"
+    },
+    {
+      "question": "Which SQL constraint is used to ensure that a column has unique values?",
+      "options": ["PRIMARY KEY", "UNIQUE", "CHECK", "DEFAULT"],
+      "answer": "UNIQUE"
+    },
+    {
+      "question": "Which SQL statement is used to create a new table?",
+      "options": ["BUILD TABLE", "MAKE TABLE", "CREATE TABLE", "NEW TABLE"],
+      "answer": "CREATE TABLE"
+    },
+    {
+      "question": "Which SQL clause is used to specify the number of records to return?",
+      "options": ["LIMIT", "TOP", "RANGE", "SELECT COUNT"],
+      "answer": "LIMIT"
+    },
+    {
+      "question": "Which SQL statement is used to retrieve only unique values?",
+      "options": ["UNIQUE", "DISTINCT", "SEPARATE", "DIFFERENT"],
+      "answer": "DISTINCT"
+    },
+    {
+      "question": "Which SQL function is used to get the current date?",
+      "options": ["GETDATE()", "TODAY()", "NOW()", "CURRENT_DATE()"],
+      "answer": "CURRENT_DATE()"
+    },
+    {
+      "question": "Which SQL constraint ensures that a column cannot have NULL values?",
+      "options": ["UNIQUE", "CHECK", "NOT NULL", "DEFAULT"],
+      "answer": "NOT NULL"
+    },
+    {
+      "question": "What is the default sorting order of ORDER BY in SQL?",
+      "options": ["Ascending", "Descending", "Random", "None"],
+      "answer": "Ascending"
+    },
+    {
+      "question": "Which SQL keyword is used to retrieve the maximum value from a column?",
+      "options": ["MAX()", "LARGEST()", "TOP()", "BIGGEST()"],
+      "answer": "MAX()"
+    },
+    {
+      "question": "Which SQL statement is used to remove a table from the database?",
+      "options": ["REMOVE TABLE", "DELETE TABLE", "DROP TABLE", "CLEAR TABLE"],
+      "answer": "DROP TABLE"
+    },
+    {
+      "question": "Which SQL join returns only matching rows from both tables?",
+      "options": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL JOIN"],
+      "answer": "INNER JOIN"
+    },
+    {
+      "question": "Which SQL keyword is used to count the number of records?",
+      "options": ["TOTAL()", "COUNT()", "NUMBER()", "SUM()"],
+      "answer": "COUNT()"
+    },
+    {
+      "question": "Which SQL clause is used to filter grouped data?",
+      "options": ["WHERE", "HAVING", "GROUP BY", "ORDER BY"],
+      "answer": "HAVING"
+    },
+    {
+      "question": "Which SQL statement is used to modify an existing table structure?",
+      "options": ["MODIFY TABLE", "CHANGE TABLE", "UPDATE TABLE", "ALTER TABLE"],
+      "answer": "ALTER TABLE"
+    },
+    {
+      "question": "Which SQL statement is used to add a new column to a table?",
+      "options": ["ADD COLUMN", "NEW COLUMN", "MODIFY COLUMN", "ALTER TABLE"],
+      "answer": "ALTER TABLE"
+    },
+    {
+      "question": "Which SQL function is used to return the minimum value in a column?",
+      "options": ["MIN()", "SMALLEST()", "LOWEST()", "BOTTOM()"],
+      "answer": "MIN()"
+    },
+    {
+      "question": "Which SQL statement is used to check a condition before inserting data?",
+      "options": ["VERIFY", "CHECK", "CONSTRAINT", "IF EXISTS"],
+      "answer": "CHECK"
+    },
+    {
+      "question": "Which SQL command is used to combine the result of two queries?",
+      "options": ["JOIN", "MERGE", "UNION", "CONNECT"],
+      "answer": "UNION"
+    },
+    {
+      "question": "Which SQL keyword is used to rename a column in a query result?",
+      "options": ["CHANGE", "RENAME", "ALIAS", "AS"],
+      "answer": "AS"
+    },
+    {
+      "question": "Which SQL function is used to get the total sum of a column?",
+      "options": ["TOTAL()", "SUM()", "ADD()", "COUNT()"],
+      "answer": "SUM()"
+    },
+    {
+      "question": "Which SQL function is used to find the average of values in a column?",
+      "options": ["AVG()", "MEAN()", "AVERAGE()", "MID()"],
+      "answer": "AVG()"
+    },
+    {
+      "question": "Which SQL operator is used to search for a specific pattern?",
+      "options": ["FIND", "SEARCH", "LIKE", "MATCH"],
+      "answer": "LIKE"
+    }
+  ]

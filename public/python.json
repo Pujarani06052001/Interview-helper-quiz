@@ -1,0 +1,147 @@
+[
+    {
+      "question": "Which of the following is used to define a block of code in Python?",
+      "options": ["{}", "()", "Indentation", "[]"],
+      "answer": "Indentation"
+    },
+    {
+      "question": "What is the output of print(type([]))?",
+      "options": ["list", "tuple", "dict", "set"],
+      "answer": "list"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "def", "function", "define"],
+      "answer": "def"
+    },
+    {
+      "question": "Which of the following data types is immutable in Python?",
+      "options": ["List", "Dictionary", "Set", "Tuple"],
+      "answer": "Tuple"
+    },
+    {
+      "question": "How do you start a single-line comment in Python?",
+      "options": ["//", "#", "/*", "--"],
+      "answer": "#"
+    },
+    {
+      "question": "What will be the output of bool([]) in Python?",
+      "options": ["True", "False", "None", "Error"],
+      "answer": "False"
+    },
+    {
+      "question": "Which of the following functions is used to read input from the user?",
+      "options": ["input()", "read()", "scan()", "get()"],
+      "answer": "input()"
+    },
+    {
+      "question": "Which of the following is the correct way to create a list in Python?",
+      "options": ["{}", "[]", "()", "None of the above"],
+      "answer": "[]"
+    },
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["5", "6", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "Which of the following methods is used to add an element to a list?",
+      "options": ["append()", "insert()", "add()", "push()"],
+      "answer": "append()"
+    },
+    {
+      "question": "Which operator is used for floor division in Python?",
+      "options": ["/", "//", "%", "**"],
+      "answer": "//"
+    },
+    {
+      "question": "Which of the following is used to create an empty set?",
+      "options": ["{}", "set()", "[]", "emptySet()"],
+      "answer": "set()"
+    },
+    {
+      "question": "What will be the output of print(len('Python'))?",
+      "options": ["5", "6", "7", "None"],
+      "answer": "6"
+    },
+    {
+      "question": "Which statement is used to exit a loop in Python?",
+      "options": ["stop", "break", "exit", "return"],
+      "answer": "break"
+    },
+    {
+      "question": "Which of the following is not a valid Python variable name?",
+      "options": ["my_variable", "_variable", "2variable", "variable_name"],
+      "answer": "2variable"
+    },
+    {
+      "question": "How do you check the type of a variable in Python?",
+      "options": ["typeof()", "type()", "checktype()", "varType()"],
+      "answer": "type()"
+    },
+    {
+      "question": "Which function is used to convert a string to an integer in Python?",
+      "options": ["toInt()", "int()", "strToInt()", "convert()"],
+      "answer": "int()"
+    },
+    {
+      "question": "Which loop is guaranteed to run at least once?",
+      "options": ["for", "while", "do-while", "None"],
+      "answer": "do-while"
+    },
+    {
+      "question": "What is the correct way to declare a dictionary in Python?",
+      "options": ["dict = {}", "dict = []", "dict = ()", "dict = set()"],
+      "answer": "dict = {}"
+    },
+    {
+      "question": "What will be the output of print(5 == '5')?",
+      "options": ["True", "False", "Error", "None"],
+      "answer": "False"
+    },
+    {
+      "question": "Which of the following is not a Python keyword?",
+      "options": ["continue", "class", "def", "function"],
+      "answer": "function"
+    },
+    {
+      "question": "Which function is used to get the ASCII value of a character?",
+      "options": ["ord()", "chr()", "ascii()", "ordValue()"],
+      "answer": "ord()"
+    },
+    {
+      "question": "What will be the output of print('Hello' + 'World')?",
+      "options": ["Hello World", "Hello+World", "HelloWorld", "Error"],
+      "answer": "HelloWorld"
+    },
+    {
+      "question": "Which module in Python is used for mathematical operations?",
+      "options": ["math", "random", "cmath", "sys"],
+      "answer": "math"
+    },
+    {
+      "question": "Which function is used to return the length of an iterable?",
+      "options": ["size()", "len()", "length()", "count()"],
+      "answer": "len()"
+    },
+    {
+      "question": "Which method is used to remove the last element from a list?",
+      "options": ["delete()", "remove()", "pop()", "drop()"],
+      "answer": "pop()"
+    },
+    {
+      "question": "Which of the following is used for exception handling in Python?",
+      "options": ["try-except", "catch-throw", "try-catch", "handle-error"],
+      "answer": "try-except"
+    },
+    {
+      "question": "How do you create an infinite loop in Python?",
+      "options": ["for i in range():", "while True:", "for i = 1 to infinity:", "while i > 0:"],
+      "answer": "while True:"
+    },
+    {
+      "question": "Which function is used to open a file in Python?",
+      "options": ["read()", "open()", "load()", "file()"],
+      "answer": "open()"
+    }
+  ]

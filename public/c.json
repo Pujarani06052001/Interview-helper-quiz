@@ -1,0 +1,147 @@
+[
+    {
+      "question": "Which of the following is a valid keyword in C?",
+      "options": ["function", "define", "int", "object"],
+      "answer": "int"
+    },
+    {
+      "question": "What is the output of printf(\"%d\", 5+3);?",
+      "options": ["5", "3", "8", "Error"],
+      "answer": "8"
+    },
+    {
+      "question": "Which data type is used to store a single character in C?",
+      "options": ["char", "string", "character", "int"],
+      "answer": "char"
+    },
+    {
+      "question": "Which of the following is NOT a valid variable name in C?",
+      "options": ["_num", "2value", "value2", "var_name"],
+      "answer": "2value"
+    },
+    {
+      "question": "Which format specifier is used to print a float value in C?",
+      "options": ["%d", "%c", "%f", "%s"],
+      "answer": "%f"
+    },
+    {
+      "question": "Which operator is used to find the remainder of division in C?",
+      "options": ["/", "*", "%", "//"],
+      "answer": "%"
+    },
+    {
+      "question": "What is the size of an int in C (typically on a 32-bit system)?",
+      "options": ["2 bytes", "4 bytes", "8 bytes", "16 bytes"],
+      "answer": "4 bytes"
+    },
+    {
+      "question": "Which function is used to read input from the user in C?",
+      "options": ["scanf()", "printf()", "getchar()", "cin"],
+      "answer": "scanf()"
+    },
+    {
+      "question": "Which header file is required for using printf() and scanf() in C?",
+      "options": ["stdlib.h", "stdio.h", "conio.h", "string.h"],
+      "answer": "stdio.h"
+    },
+    {
+      "question": "Which of the following is an entry point for a C program?",
+      "options": ["start()", "main()", "execute()", "run()"],
+      "answer": "main()"
+    },
+    {
+      "question": "Which loop is guaranteed to execute at least once?",
+      "options": ["for", "while", "do...while", "None"],
+      "answer": "do...while"
+    },
+    {
+      "question": "Which operator is used for logical AND in C?",
+      "options": ["&", "&&", "|", "||"],
+      "answer": "&&"
+    },
+    {
+      "question": "Which function is used to find the length of a string in C?",
+      "options": ["strlength()", "length()", "strlen()", "size()"],
+      "answer": "strlen()"
+    },
+    {
+      "question": "Which keyword is used to define constants in C?",
+      "options": ["const", "final", "static", "#define"],
+      "answer": "#define"
+    },
+    {
+      "question": "What will printf(\"%d\", 'A'); print?",
+      "options": ["A", "65", "Error", "None"],
+      "answer": "65"
+    },
+    {
+      "question": "Which of the following is NOT a valid C loop?",
+      "options": ["for", "foreach", "while", "do...while"],
+      "answer": "foreach"
+    },
+    {
+      "question": "Which statement is used to exit from a loop in C?",
+      "options": ["stop", "exit", "break", "return"],
+      "answer": "break"
+    },
+    {
+      "question": "Which function is used to allocate memory dynamically in C?",
+      "options": ["malloc()", "alloc()", "memalloc()", "new()"],
+      "answer": "malloc()"
+    },
+    {
+      "question": "Which operator is used to compare two values in C?",
+      "options": ["=", "==", "!=", "&&"],
+      "answer": "=="
+    },
+    {
+      "question": "Which of the following is NOT a valid C data type?",
+      "options": ["int", "float", "boolean", "char"],
+      "answer": "boolean"
+    },
+    {
+      "question": "Which symbol is used to access a pointer's value?",
+      "options": ["*", "&", "#", "%"],
+      "answer": "*"
+    },
+    {
+      "question": "Which function is used to copy a string in C?",
+      "options": ["copy()", "strcpy()", "strcopy()", "stringcopy()"],
+      "answer": "strcpy()"
+    },
+    {
+      "question": "Which operator is used for bitwise OR in C?",
+      "options": ["|", "||", "&", "&&"],
+      "answer": "|"
+    },
+    {
+      "question": "Which library function is used to find the square root of a number in C?",
+      "options": ["sqrt()", "pow()", "square()", "root()"],
+      "answer": "sqrt()"
+    },
+    {
+      "question": "Which of the following statements is used to return a value from a function in C?",
+      "options": ["end", "return", "exit", "break"],
+      "answer": "return"
+    },
+    {
+      "question": "Which keyword is used to define a structure in C?",
+      "options": ["struct", "structure", "class", "record"],
+      "answer": "struct"
+    },
+    {
+      "question": "Which of the following is NOT a valid storage class in C?",
+      "options": ["auto", "static", "global", "extern"],
+      "answer": "global"
+    },
+    {
+      "question": "Which function is used to terminate a C program immediately?",
+      "options": ["exit()", "terminate()", "break()", "stop()"],
+      "answer": "exit()"
+    },
+    {
+      "question": "Which of the following is used to define a macro in C?",
+      "options": ["#macro", "#define", "macro", "define"],
+      "answer": "#define"
+    }
+  ]

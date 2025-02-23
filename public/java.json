@@ -1,0 +1,147 @@
+[
+    {
+      "question": "What is the default value of an instance variable in Java?",
+      "options": ["null", "0", "Depends on the data type", "Not assigned"],
+      "answer": "Depends on the data type"
+    },
+    {
+      "question": "Which keyword is used to define a constant variable in Java?",
+      "options": ["constant", "final", "static", "const"],
+      "answer": "final"
+    },
+    {
+      "question": "What is the size of an int in Java?",
+      "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on the system"],
+      "answer": "4 bytes"
+    },
+    {
+      "question": "Which of the following is NOT a Java primitive data type?",
+      "options": ["int", "boolean", "string", "double"],
+      "answer": "string"
+    },
+    {
+      "question": "Which function is used to print output in Java?",
+      "options": ["print()", "echo()", "System.out.println()", "out.print()"],
+      "answer": "System.out.println()"
+    },
+    {
+      "question": "Which of the following is NOT a Java access modifier?",
+      "options": ["public", "protected", "private", "package"],
+      "answer": "package"
+    },
+    {
+      "question": "Which of these loops executes at least once?",
+      "options": ["for", "while", "do-while", "None of the above"],
+      "answer": "do-while"
+    },
+    {
+      "question": "Which class in Java is used to take user input?",
+      "options": ["Scanner", "InputReader", "BufferedReader", "UserInput"],
+      "answer": "Scanner"
+    },
+    {
+      "question": "What will be the output of 10 + 20 + 'Java'?",
+      "options": ["30Java", "1020Java", "Java30", "Compilation Error"],
+      "answer": "30Java"
+    },
+    {
+      "question": "What is the superclass of all classes in Java?",
+      "options": ["Object", "Main", "Super", "Base"],
+      "answer": "Object"
+    },
+    {
+      "question": "Which of these methods is used to start a thread?",
+      "options": ["run()", "start()", "execute()", "init()"],
+      "answer": "start()"
+    },
+    {
+      "question": "Which Java keyword is used to inherit a class?",
+      "options": ["implements", "extends", "inherits", "super"],
+      "answer": "extends"
+    },
+    {
+      "question": "Which of these exceptions is unchecked?",
+      "options": ["IOException", "SQLException", "ArithmeticException", "FileNotFoundException"],
+      "answer": "ArithmeticException"
+    },
+    {
+      "question": "Which keyword is used to prevent inheritance?",
+      "options": ["final", "static", "private", "protected"],
+      "answer": "final"
+    },
+    {
+      "question": "Which method is called when an object is garbage collected?",
+      "options": ["delete()", "finalize()", "destroy()", "cleanup()"],
+      "answer": "finalize()"
+    },
+    {
+      "question": "Which keyword is used to refer to the current instance of a class?",
+      "options": ["this", "self", "super", "instance"],
+      "answer": "this"
+    },
+    {
+      "question": "Which of the following is not a feature of Java?",
+      "options": ["Platform Independence", "Garbage Collection", "Multiple Inheritance using classes", "Pointer Arithmetic"],
+      "answer": "Pointer Arithmetic"
+    },
+    {
+      "question": "Which operator is used to compare two objects in Java?",
+      "options": ["==", "!=", "equals()", "compare()"],
+      "answer": "equals()"
+    },
+    {
+      "question": "Which of the following can be used to create an immutable class in Java?",
+      "options": ["Making the class final", "Making all fields private", "Providing only getters", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is true about Java arrays?",
+      "options": ["Arrays are always of fixed size", "Arrays can dynamically increase size", "Arrays store values of different data types", "Arrays do not exist in Java"],
+      "answer": "Arrays are always of fixed size"
+    },
+    {
+      "question": "Which method is used to convert a string into an integer?",
+      "options": ["Integer.parseInt()", "String.toInteger()", "Integer.valueOf()", "parse.Integer()"],
+      "answer": "Integer.parseInt()"
+    },
+    {
+      "question": "What is the default value of a boolean variable in Java?",
+      "options": ["true", "false", "null", "0"],
+      "answer": "false"
+    },
+    {
+      "question": "What is the return type of the main method in Java?",
+      "options": ["void", "int", "string", "None"],
+      "answer": "void"
+    },
+    {
+      "question": "Which package contains the Collection framework?",
+      "options": ["java.util", "java.collection", "java.list", "java.collections"],
+      "answer": "java.util"
+    },
+    {
+      "question": "Which of these is used to handle exceptions in Java?",
+      "options": ["try-catch", "if-else", "switch-case", "for loop"],
+      "answer": "try-catch"
+    },
+    {
+      "question": "Which keyword is used to define an interface?",
+      "options": ["interface", "implements", "abstract", "class"],
+      "answer": "interface"
+    },
+    {
+      "question": "What does JVM stand for?",
+      "options": ["Java Virtual Machine", "Java Visual Machine", "Java Variable Machine", "Java Version Manager"],
+      "answer": "Java Virtual Machine"
+    },
+    {
+      "question": "Which method is used to check if a string contains another string?",
+      "options": ["contains()", "has()", "find()", "matches()"],
+      "answer": "contains()"
+    },
+    {
+      "question": "Which of the following is used to read data from a file in Java?",
+      "options": ["Scanner", "FileReader", "BufferedReader", "All of the above"],
+      "answer": "All of the above"
+    }
+  ]

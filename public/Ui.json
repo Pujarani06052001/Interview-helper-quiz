@@ -1,0 +1,147 @@
+[
+    {
+      "question": "What does UI stand for in UI/UX design?",
+      "options": ["User Integration", "User Interface", "User Interaction", "User Insight"],
+      "answer": "User Interface"
+    },
+    {
+      "question": "What does UX stand for in UI/UX design?",
+      "options": ["User Experience", "User Exploration", "User Execution", "User Exchange"],
+      "answer": "User Experience"
+    },
+    {
+      "question": "Which of the following is a key principle of UX design?",
+      "options": ["Complexity", "User-centered design", "Random navigation", "Ignoring accessibility"],
+      "answer": "User-centered design"
+    },
+    {
+      "question": "What is the purpose of wireframing in UI/UX design?",
+      "options": ["To create a final design", "To outline the structure of a webpage", "To test colors", "To write backend code"],
+      "answer": "To outline the structure of a webpage"
+    },
+    {
+      "question": "Which tool is commonly used for UI design?",
+      "options": ["Photoshop", "Figma", "Illustrator", "Premiere Pro"],
+      "answer": "Figma"
+    },
+    {
+      "question": "What is usability testing in UX design?",
+      "options": ["Testing code for errors", "Testing how easy a product is to use", "Testing battery life", "Testing network speed"],
+      "answer": "Testing how easy a product is to use"
+    },
+    {
+      "question": "Which color model is primarily used for digital interfaces?",
+      "options": ["CMYK", "RGB", "PMS", "Grayscale"],
+      "answer": "RGB"
+    },
+    {
+      "question": "Which of the following improves UX?",
+      "options": ["Slow loading times", "Confusing navigation", "Responsive design", "Too many pop-ups"],
+      "answer": "Responsive design"
+    },
+    {
+      "question": "What is a prototype in UI/UX design?",
+      "options": ["A final version of the product", "A basic model for testing", "A logo design", "A background image"],
+      "answer": "A basic model for testing"
+    },
+    {
+      "question": "Which of the following is an example of a UI component?",
+      "options": ["Database", "Navigation bar", "Server", "Backend API"],
+      "answer": "Navigation bar"
+    },
+    {
+      "question": "Why is accessibility important in UI/UX design?",
+      "options": ["It helps developers debug code", "It makes products usable for all users", "It increases website load time", "It only applies to mobile apps"],
+      "answer": "It makes products usable for all users"
+    },
+    {
+      "question": "What does a UX designer primarily focus on?",
+      "options": ["Backend development", "User interactions and experience", "Graphic design", "Creating databases"],
+      "answer": "User interactions and experience"
+    },
+    {
+      "question": "What is the 'Golden Ratio' in UI design?",
+      "options": ["A mathematical concept for aesthetics", "A color grading technique", "A type of navigation bar", "A typography style"],
+      "answer": "A mathematical concept for aesthetics"
+    },
+    {
+      "question": "Which of the following improves a website’s UX?",
+      "options": ["Using too many pop-ups", "Slow page loading", "Clear and intuitive navigation", "Complex forms"],
+      "answer": "Clear and intuitive navigation"
+    },
+    {
+      "question": "What is the purpose of A/B testing in UX?",
+      "options": ["To test coding errors", "To compare two design versions", "To debug UI components", "To validate login credentials"],
+      "answer": "To compare two design versions"
+    },
+    {
+      "question": "Which of the following is a principle of good UI design?",
+      "options": ["Cluttered layout", "Inconsistent typography", "Minimalist design", "Complex animations"],
+      "answer": "Minimalist design"
+    },
+    {
+      "question": "What is a 'Persona' in UX research?",
+      "options": ["A type of font", "A fictional user profile", "A coding framework", "An animation tool"],
+      "answer": "A fictional user profile"
+    },
+    {
+      "question": "What does 'CTA' stand for in UI/UX?",
+      "options": ["Click to Activate", "Call to Action", "Create the App", "Client Target Analysis"],
+      "answer": "Call to Action"
+    },
+    {
+      "question": "Which file format is commonly used for vector-based UI designs?",
+      "options": ["PNG", "JPEG", "SVG", "BMP"],
+      "answer": "SVG"
+    },
+    {
+      "question": "What is the main goal of UX design?",
+      "options": ["Making the website visually appealing", "Improving user satisfaction", "Writing complex code", "Creating advertisements"],
+      "answer": "Improving user satisfaction"
+    },
+    {
+      "question": "Which design principle ensures elements are aligned and visually organized?",
+      "options": ["Contrast", "Proximity", "Alignment", "Repetition"],
+      "answer": "Alignment"
+    },
+    {
+      "question": "What is 'responsive design' in UI/UX?",
+      "options": ["A static design that doesn't change", "A design that adapts to different screen sizes", "A design with no colors", "A design for only mobile apps"],
+      "answer": "A design that adapts to different screen sizes"
+    },
+    {
+      "question": "What is an example of a micro-interaction in UI design?",
+      "options": ["Page scrolling", "Loading a website", "A button changing color when clicked", "A pop-up ad"],
+      "answer": "A button changing color when clicked"
+    },
+    {
+      "question": "Which of the following is NOT a UX research method?",
+      "options": ["Surveys", "Wireframing", "User interviews", "Heatmaps"],
+      "answer": "Wireframing"
+    },
+    {
+      "question": "Which term refers to how easy a product is to learn and use?",
+      "options": ["Usability", "Scalability", "Maintainability", "Flexibility"],
+      "answer": "Usability"
+    },
+    {
+      "question": "Which of these is an example of UI design?",
+      "options": ["Creating a database", "Designing a button", "Developing an API", "Writing JavaScript"],
+      "answer": "Designing a button"
+    },
+    {
+      "question": "Which of these is an example of a bad UX practice?",
+      "options": ["Consistent typography", "Easy navigation", "Slow website speed", "Clear call-to-action buttons"],
+      "answer": "Slow website speed"
+    },
+    {
+      "question": "What is 'heuristic evaluation' in UX design?",
+      "options": ["A method for evaluating usability", "A tool for creating UI components", "A way to test website security", "A technique for graphic design"],
+      "answer": "A method for evaluating usability"
+    },
+    {
+      "question": "Which of the following is a key UI design element?",
+      "options": ["Back-end database", "Navigation menu", "API endpoint", "Server-side script"],
+      "answer": "Navigation menu"
+    }
+  ]

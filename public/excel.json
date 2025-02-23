@@ -1,0 +1,127 @@
+[
+    {
+      "question": "What is the default file extension of an Excel workbook?",
+      "options": ["A) .docx", "B) .xlsx", "C) .pptx", "D) .xlsm"],
+      "answer": "B) .xlsx"
+    },
+    {
+      "question": "Which function is used to find the largest number in a range?",
+      "options": ["A) MIN()", "B) MAX()", "C) LARGE()", "D) BIG()"],
+      "answer": "B) MAX()"
+    },
+    {
+      "question": "What is the shortcut to save an Excel file?",
+      "options": ["A) Ctrl + S", "B) Ctrl + P", "C) Ctrl + V", "D) Ctrl + X"],
+      "answer": "A) Ctrl + S"
+    },
+    {
+      "question": "What does the CONCATENATE function do?",
+      "options": ["A) Combines multiple values into one", "B) Removes duplicates", "C) Splits text into columns", "D) Sorts data"],
+      "answer": "A) Combines multiple values into one"
+    },
+    {
+      "question": "What is the default column width in Excel?",
+      "options": ["A) 8.43", "B) 10", "C) 12", "D) 15"],
+      "answer": "A) 8.43"
+    },
+    {
+      "question": "Which formula is correct for adding values in cells A1 to A5?",
+      "options": ["A) =SUM(A1:A5)", "B) =ADD(A1:A5)", "C) =TOTAL(A1:A5)", "D) =PLUS(A1:A5)"],
+      "answer": "A) =SUM(A1:A5)"
+    },
+    {
+      "question": "How can you quickly select all data in a worksheet?",
+      "options": ["A) Ctrl + A", "B) Ctrl + C", "C) Ctrl + Z", "D) Ctrl + X"],
+      "answer": "A) Ctrl + A"
+    },
+    {
+      "question": "What does the VLOOKUP function do?",
+      "options": ["A) Searches a value vertically in a table", "B) Searches a value horizontally", "C) Counts the number of cells", "D) Removes duplicates"],
+      "answer": "A) Searches a value vertically in a table"
+    },
+    {
+      "question": "Which symbol is used to start a formula in Excel?",
+      "options": ["A) #", "B) @", "C) =", "D) $"],
+      "answer": "C) ="
+    },
+    {
+      "question": "Which function is used to count only numeric values in a range?",
+      "options": ["A) COUNT()", "B) COUNTA()", "C) COUNTIF()", "D) SUM()"],
+      "answer": "A) COUNT()"
+    },
+    {
+      "question": "How do you insert a new worksheet in Excel?",
+      "options": ["A) Click on 'Insert' > 'Worksheet'", "B) Press Shift + F11", "C) Click the '+' sign in the sheet tab", "D) All of the above"],
+      "answer": "D) All of the above"
+    },
+    {
+      "question": "What is the shortcut to create a new workbook in Excel?",
+      "options": ["A) Ctrl + N", "B) Ctrl + W", "C) Ctrl + P", "D) Ctrl + D"],
+      "answer": "A) Ctrl + N"
+    },
+    {
+      "question": "Which function is used to return the current date?",
+      "options": ["A) NOW()", "B) TODAY()", "C) DATE()", "D) TIME()"],
+      "answer": "B) TODAY()"
+    },
+    {
+      "question": "Which chart type is best for showing trends over time?",
+      "options": ["A) Pie Chart", "B) Line Chart", "C) Bar Chart", "D) Scatter Chart"],
+      "answer": "B) Line Chart"
+    },
+    {
+      "question": "What is the use of the Freeze Panes feature?",
+      "options": ["A) Locks selected rows/columns", "B) Deletes blank rows", "C) Sorts data", "D) Merges cells"],
+      "answer": "A) Locks selected rows/columns"
+    },
+    {
+      "question": "What happens when you press Ctrl + Z?",
+      "options": ["A) Redo the last action", "B) Undo the last action", "C) Copy the content", "D) Paste the content"],
+      "answer": "B) Undo the last action"
+    },
+    {
+      "question": "Which function counts non-empty cells?",
+      "options": ["A) COUNT()", "B) COUNTA()", "C) COUNTIF()", "D) COUNTBLANK()"],
+      "answer": "B) COUNTA()"
+    },
+    {
+      "question": "Which function is used for conditional formatting?",
+      "options": ["A) IF()", "B) COUNTIF()", "C) VLOOKUP()", "D) HLOOKUP()"],
+      "answer": "A) IF()"
+    },
+    {
+      "question": "What does Ctrl + D do?",
+      "options": ["A) Duplicates selected cells", "B) Fills down the formula from above", "C) Deletes selected cells", "D) Converts text to numbers"],
+      "answer": "B) Fills down the formula from above"
+    },
+    {
+      "question": "What is the result of =ROUND(3.14159,2)?",
+      "options": ["A) 3.14", "B) 3.141", "C) 3.15", "D) 3.2"],
+      "answer": "A) 3.14"
+    },
+    {
+      "question": "What is the shortcut to open the 'Find and Replace' dialog box?",
+      "options": ["A) Ctrl + H", "B) Ctrl + F", "C) Ctrl + R", "D) Ctrl + E"],
+      "answer": "A) Ctrl + H"
+    },
+    {
+      "question": "What does Ctrl + P do in Excel?",
+      "options": ["A) Prints the worksheet", "B) Pastes the copied data", "C) Protects the sheet", "D) Opens a new file"],
+      "answer": "A) Prints the worksheet"
+    },
+    {
+      "question": "What is the maximum number of rows in an Excel 2016 worksheet?",
+      "options": ["A) 1,048,576", "B) 65,536", "C) 10,000", "D) 100,000"],
+      "answer": "A) 1,048,576"
+    },
+    {
+      "question": "Which function finds the smallest value in a range?",
+      "options": ["A) MIN()", "B) SMALL()", "C) LOWER()", "D) LOWEST()"],
+      "answer": "A) MIN()"
+    },
+    {
+      "question": "What does the Pivot Table feature do?",
+      "options": ["A) Summarizes and analyzes data", "B) Deletes duplicates", "C) Converts data to text", "D) Sorts only numeric data"],
+      "answer": "A) Summarizes and analyzes data"
+    }
+  ]
