@@ -1,5 +1,7 @@
 import React from "react";
 import "./Navbar.css";  // CSS module import
+import { Link } from "react-router-dom";
+
 
 function Nav() {
   return (
@@ -26,7 +28,9 @@ function Nav() {
         Practice with AI-powered mock interviews and get personalized feedback
       </p>
       <div className="section2-buttons">
-        <a href="/dashboard" className="dashboard">Get Started</a>
+        {/* <a href="/dashboard" className="dashboard">Get Started</a> */}
+        <Link to="/quiz">Get Started</Link>
+
         <a href="#features" className="features">Learn More</a>
       </div>
     </section>
