@@ -12,7 +12,6 @@ const router = createBrowserRouter([
     path: '/quiz',
     element: <Quiz />,
   },
-  // Add other routes here if needed
 ]);
 
 function App() {
