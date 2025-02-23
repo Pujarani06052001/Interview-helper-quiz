@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "question": "What is React?",
+      "options": [
+        "A programming language",
+        "A JavaScript library for building UI",
+        "A database",
+        "A CSS framework"
+      ],
+      "correctAnswer": "A JavaScript library for building UI"
+    },
+    {
+      "id": 2,
+      "question": "Which hook is used to manage state in a functional component?",
+      "options": [
+        "useEffect",
+        "useState",
+        "useContext",
+        "useReducer"
+      ],
+      "correctAnswer": "useState"
+    },
+    {
+      "id": 3,
+      "question": "How do you pass data from parent to child in React?",
+      "options": [
+        "Using state",
+        "Using props",
+        "Using Redux",
+        "Using useEffect"
+      ],
+      "correctAnswer": "Using props"
+    },
+    {
+      "id": 4,
+      "question": "Which command creates a new React app using Vite?",
+      "options": [
+        "npx create-react-app my-app",
+        "npm create vite@latest my-app --template react",
+        "react-init my-app",
+        "npx create-vite-app my-app"
+      ],
+      "correctAnswer": "npm create vite@latest my-app --template react"
+    },
+    {
+      "id": 5,
+      "question": "What does JSX stand for in React?",
+      "options": [
+        "JavaScript XML",
+        "Java Syntax Extension",
+        "JSON XML",
+        "JavaScript Extension"
+      ],
+      "correctAnswer": "JavaScript XML"
+    }
+  ]
+  
