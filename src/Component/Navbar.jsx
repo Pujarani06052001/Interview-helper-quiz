@@ -1,15 +1,20 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Navbar.css";  // CSS module import
+// import { useNavigate } from "react-router-dom";import 
+import SignIN  from "./Sign";
 
 function Nav() {
+
+  // }
+  const[data, setData]=useState(false)
   return (
   <>
   <main className="min-h-screen">
     <header className="header">
       <div className="container">
-        <h1 className="container-h1">AI Mock Interview</h1>
+        <h1 className="container-h1"> Mock Interview</h1>
         <nav className="container-nav">
-          <div className="nav-div">
+          <div className="nav-usediv">
             <a href="#features" className="feature">Features</a>
             <a href="#testimonials" className="testimonials">Testimonials</a>
             <a href="#contact" className="contact">Contact</a>
@@ -19,30 +24,30 @@ function Nav() {
     </header>
 
 {/*  section 2 */}
-
     <section  className="section2">
       <h2 className="section-h2" >Ace Your Next Interview</h2>
       <p className="section-p">
         Practice with AI-powered mock interviews and get personalized feedback
       </p>
       <div className="section2-buttons">
-        <a href="/dashboard" className="dashboard">Get Started</a>
-        <a href="#features" className="features">Learn More</a>
+      <button className="dashboard" onClick={() => setData(true)}
+      >Get Started</button>
+      {data && <SignIN/>}
+        <button className="features">Learn More</button>
       </div>
     </section>
 
 {/* section 3 */}
-
     <section className="section3">
           <div className="container-section3">
             <h2 className="text-heading">Features</h2>
             <p className="text-title">
-              Our AI Mock Interview platform offers a range of powerful features:
+              Our Mock Interview platform offers a range of powerful features:
             </p>
             <div className="flex-container">
               <div className="flex-box">
                 <div className="boxes">
-                  <h3 className="boxes-heading">AI Mock Interviews</h3>
+                  <h3 className="boxes-heading"> Mock Interviews</h3>
                   <p className="boxes-title">Experience realistic interview scenarios with our advanced AI.</p>
                 </div>
               </div>
@@ -67,7 +72,7 @@ function Nav() {
           <div className="container-section3">
             <h2 className="text-heading">What Our Users Say</h2>
             <p className="text-title">
-              Our AI Mock Interview platform offers a range of powerful features:
+              Our Mock Interview platform offers a range of powerful features:
             </p>
             <div className="flex-container">
               <div className="flex-box">
@@ -99,6 +104,7 @@ function Nav() {
           </div>
         </section>
     </main>
+     
     </>
   );
 }
