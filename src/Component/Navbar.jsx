@@ -2,8 +2,6 @@ import React from "react";
 import "./Navbar.css";  // CSS module import
 import { Link } from "react-router-dom";
 
-
-function Nav() {
   return (
   <>
   <main className="min-h-screen">
@@ -63,46 +61,9 @@ function Nav() {
                 </div>
               </div>
             </div>
-          </div>
-        </section>
-
-{/* section 4 */}
-        <section id="features" className="section3">
-          <div className="container-section3">
-            <h2 className="text-heading">What Our Users Say</h2>
-            <p className="text-title">
-              Our AI Mock Interview platform offers a range of powerful features:
-            </p>
-            <div className="flex-container">
-              <div className="flex-box">
-                <div className="boxes">
-                  <h3 className="boxes-heading">Priyanka Mishra </h3>
-                  <p className="boxes-title">Experience realistic interview scenarios with our advanced AI.</p>
-                </div>
-              </div>
-              <div className="flex-box">
-                <div className="boxes">
-                  <h3 className="boxes-heading">Nabeesha Khatoon</h3>
-                  <p className="boxes-title">Get instant, personalized feedback to improve your performance.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-{/* contact page */}
-        <section className="section4">
-          <div className="contact-page">
-            <h2>Get In Touch</h2>
-            <p>Have any questions? Reach out to us and we'll get back to you as soon as possible.</p>
-            <form>
-              <input type="text" placeholder="Your Name" /><br></br>
-              <input type="email" placeholder="Your  Email"/><br></br>
-              <textarea placeholder="Your Message"></textarea>
-            </form>
-          </div>
-        </section>
-    </main>
+          </nav>
+        </div>
+      </header>
     </>
   );
 }
