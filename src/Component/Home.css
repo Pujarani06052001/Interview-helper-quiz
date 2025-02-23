@@ -275,3 +275,21 @@
     font-weight: 600;
   
 }
+
+
+.quiz-link{
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem;
+    padding-top: 0.75rem; 
+    padding-bottom: 0.75rem;
+    margin-bottom: 1rem;  
+    font-size: 20px;  
+    font-weight: 900; 
+    background-color: white;
+    color: black;
+    text-decoration: none; 
+    border-radius: 0.5rem; 
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.2s ease-in-out;
+
+}
